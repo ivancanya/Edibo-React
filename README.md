@@ -1,1 +1,1 @@
-Este es el Readme de REACT
+Curso de REACT EDIBO 2021
